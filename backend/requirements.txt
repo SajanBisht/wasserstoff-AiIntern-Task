@@ -1,0 +1,20 @@
+fastapi
+uvicorn[standard]
+pypdf
+pytesseract
+python-multipart
+Pillow
+langchain
+openai
+google-generativeai
+chromadb
+tqdm
+pandas
+python-docx
+docx2txt
+pdf2image
+unstructured
+pypandoc
+pdfminer.six
+python-dotenv
+pytesseract Pillow
